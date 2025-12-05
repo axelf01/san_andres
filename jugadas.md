@@ -1,242 +1,242 @@
-# San Andrés Rugby Club Plays - 2021 Season 🏉
+# Jugadas Club San Andrés Rugby - Temporada 2021 🏉
 
-## Index
-- [Short or Frontal Plays](#short-or-frontal-plays)
-- [Long Plays](#long-plays)
-- [Midfield Plays](#midfield-plays)
+## Índice
+- [Jugadas Cortas o Frontales](#jugadas-cortas-o-frontales)
+- [Jugadas Largas](#jugadas-largas)
+- [Jugadas de Mitad de Cancha](#jugadas-de-mitad-de-cancha)
 
 ---
 
-## Short or Frontal Plays
+## Jugadas Cortas o Frontales
 
 ### Bulita
 
-**Objective:** Create a 3 vs 2 situation in midfield.
+**Objetivo:** Crear una situación de 3 vs 2 en mitad de cancha.
 
-**Description:**
-The Bulita play seeks to create numerical superiority with the fly-half, inside center, and blindside wing against the opposing fly-half and inside center.
+**Descripción:**
+La jugada Bulita busca crear superioridad numérica con el apertura, primer centro y wing ciego contra el apertura y primer centro rival.
 
-**Execution:**
-1. The fly-half must fix their direct opponent
-2. The inside center commits their opposing center and seeks a short angle to the inside shoulder, running flat
-3. The blindside wing stays hidden behind the fly-half until the last moment to avoid detection
-4. When the inside center changes angle, the blindside wing appears
-5. The outside center must draw the opposing outside center away to isolate the 3 vs 2
+**Ejecución:**
+1. El apertura debe fijar a su rival directo
+2. El primer centro compromete a su centro rival y busca un ángulo corto al hombro interno, corriendo plano
+3. El wing ciego se mantiene escondido detrás del apertura hasta el último momento para evitar ser detectado
+4. Cuando el primer centro cambia de ángulo, el wing ciego aparece
+5. El segundo centro debe llevar al segundo centro rival hacia afuera para aislar el 3 vs 2
 
-**Passing options:**
-- To the inside center on a short angle
-- To the blindside wing who appears by surprise
-- Both options must be viable simultaneously
+**Opciones de pase:**
+- Al primer centro en ángulo corto
+- Al wing ciego que aparece por sorpresa
+- Ambas opciones deben ser viables simultáneamente
 
 ---
 
 ### Bandeja/Maca/Pomelo
 
-**Objective:** Create multiple attacking options with coordinated crosses.
+**Objetivo:** Crear múltiples opciones de ataque con cruces coordinados.
 
-**Description:**
-Play with three variants that share the same base but differ in the blindside wing's movement.
+**Descripción:**
+Jugada con tres variantes que comparten la misma base pero difieren en el movimiento del wing ciego.
 
-**Base execution (Bandeja):**
-1. The fly-half runs straight then cuts toward the inside shoulder of the opposing inside center
-2. Appearing simultaneously:
-   - Inside center crossing
-   - Outside center on a short angle
-3. The fly-half must keep their legs moving after the cross to create space
+**Ejecución base (Bandeja):**
+1. El apertura corre derecho y luego tuerce hacia el hombro interno del primer centro rival
+2. Aparecen simultáneamente:
+   - Primer centro en cruce
+   - Segundo centro en ángulo corto
+3. El apertura debe seguir moviendo las piernas después del cruce para crear espacio
 
-**MACA variant:**
-- The blindside wing crosses after the inside center passes
+**Variante MACA:**
+- El wing ciego cruza después de que pase el primer centro
 
-**POMELO variant:**
-- The blindside wing loops behind the outside center
+**Variante POMELO:**
+- El wing ciego va por espalda del segundo centro
 
-**Key:** All three options (inside center, outside center, wing) must be possible almost simultaneously.
+**Clave:** Las tres opciones (primer centro, segundo centro, wing) deben ser posibles casi simultáneamente.
 
 ---
 
 ### Adelante
 
-**Objective:** Generate a 3 vs 2 with movement toward the openside.
+**Objetivo:** Generar un 3 vs 2 con movimiento hacia el lado abierto.
 
-**Execution:**
-1. The fly-half aims directly at the opposing inside center
-2. The inside center mimics their run toward the opposing outside center
-3. The outside center crosses behind both
-4. The blindside wing goes toward the openside behind the inside center
+**Ejecución:**
+1. El apertura apunta directamente al primer centro rival
+2. El primer centro imita su carrera hacia el segundo centro rival
+3. El segundo centro cruza por detrás de ambos
+4. El wing ciego va hacia el abierto por la espalda del primer centro
 
-**Final options:**
-1. Pass to the inside center short (direct penetration)
-2. Pass to the crossing outside center (attack against the grain)
-3. Pass to the blindside wing (numerical superiority outside if the opposing outside center closes down)
+**Opciones finales:**
+1. Pase al primer centro corto (penetración directa)
+2. Pase al segundo centro que cruza (ataque a contrapelo)
+3. Pase al wing ciego (superioridad numérica exterior si el segundo centro rival se cierra)
 
 ---
 
 ### Boca
 
-**Direction:** ALWAYS from left to right to avoid marking by the opposing scrum-half.
+**Dirección:** SIEMPRE de izquierda a derecha para evitar marcación del medio scrum rival.
 
-**Description:**
-The centers run almost identical lines: straight toward the defense, finding space at the last moment.
+**Descripción:**
+Los centros corren líneas casi idénticas: rectas hacia la defensa, buscando espacio a último momento.
 
-**Execution:**
-1. The fly-half must worry the opposing inside center
-2. The centers run straight and parallel lines
-3. At the last moment they find spaces to receive from the fly-half
-4. The blindside wing loops behind the centers as a trailer, but not too deep to maintain passing quality
+**Ejecución:**
+1. El 10 debe preocupar al primer centro rival
+2. Los centros corren líneas rectas y paralelas
+3. A último momento buscan espacios para recibir del 10
+4. El wing ciego va por espalda de los centros como bufetero, pero no muy largo para mantener calidad de pase
 
-**Critical point:** The outside center (13) must arrive higher upfield than the inside center (12) so both passes are possible.
+**Punto crítico:** El 13 (segundo centro) tiene que llegar más arriba que el 12 (primer centro) para que ambos pases sean posibles.
 
 ---
 
 ### Bufetero
 
-**Objective:** Centers cross without the ball to confuse the defense.
+**Objetivo:** Cruce de centros sin pelota para confundir la defensa.
 
-**Description:**
-The outside center comes short in front and the inside center goes long behind. The blindside wing supports inside.
+**Descripción:**
+El segundo centro viene corto por adelante y el primer centro va largo por atrás. El wing ciego apoya por adentro.
 
-**Execution:**
-1. The centers' running lines are initially parallel and straight forward
-2. The outside center can start flatter if necessary, but without making the movement obvious
-3. When the outside center changes angle, they do so toward a specific space: **outside shoulder of the opposing 12, NOT toward the fly-half**
-4. At that moment, the inside center drifts slightly outward with depth
-5. The inside center (12) must "let go" of the outside center (13) for the drift to work
+**Ejecución:**
+1. Las carreras de los centros inicialmente son paralelas y rectas hacia adelante
+2. El segundo centro puede empezar más plano si es necesario, pero sin hacer obvio el movimiento
+3. Cuando el segundo centro cambia de ángulo, lo hace hacia un espacio específico: **hombro externo del 12 rival, NO hacia el apertura**
+4. En ese momento, el primer centro desplaza ligeramente hacia afuera con profundidad
+5. El 12 debe "dejar ir" al 13 para que el desplazamiento funcione
 
-**Reception options:**
-- Outside center short (if they see a gap outside the opposing 12)
-- Inside center long (with blindside wing inside)
-- Blindside wing direct from the fly-half (if there's a large gap between centers)
+**Opciones de recepción:**
+- Segundo centro corto (si ve hueco por fuera del 12 rival)
+- Primer centro largo (con wing ciego de interno)
+- Wing ciego directo del 10 (si hay hueco grande entre centros)
 
 ---
 
-## Long Plays
+## Jugadas Largas
 
 ### Quilombo
 
-**Objective:** Generate a loop from the fly-half with multiple continuity options.
+**Objetivo:** Generar un relevo del apertura con múltiples opciones de continuidad.
 
-**Execution:**
-1. The fly-half passes to the inside center
-2. The inside center attacks forward, supported by the outside center on the outside
-3. The outside center maintains a straight or outward running line until the last moment
-4. At the last moment, the outside center corrects inward
-5. **If the opposing outside center doesn't close down:** the pass goes directly to the outside center in midfield
-6. The fly-half loops behind the outside center
-7. The fly-half has support from the blindside wing behind them
-8. They also have support from the fullback and openside wing outside
+**Ejecución:**
+1. El apertura pasa al primer centro
+2. El primer centro busca bien hacia adelante, apuntalado por el segundo centro por afuera
+3. El segundo centro mantiene carrera recta o hacia afuera hasta último momento
+4. A último momento, el segundo centro corrige hacia adentro
+5. **Si el segundo centro rival no se cierra:** el pase va directo al segundo centro por mitad de cancha
+6. El apertura releva por atrás del segundo centro
+7. El apertura tiene apoyo del wing ciego atrás suyo
+8. También tiene apoyo del fullback y wing abierto afuera
 
-**Options after the loop:**
-1. Pass to the outside center (13) running flat
-2. Keep with the fly-half with blindside wing support
-3. Flat skip pass to the fullback (15)
-4. Outside play if the defense is closed
+**Opciones posteriores al relevo:**
+1. Pase al 13 lanzado
+2. Mantener por el apertura con apoyo del wing ciego
+3. Salteo plano al 15 (fullback)
+4. Juego exterior si la defensa está cerrada
 
 ---
 
 ### Francia
 
-**Direction:** ALWAYS from left to right to avoid marking by the opposing scrum-half.
+**Dirección:** SIEMPRE de izquierda a derecha para evitar marcación del medio scrum rival.
 
-**Execution:**
-1. The inside center runs straight toward the defense
-2. At the last moment finds space to receive from the scrum-half
-3. The scrum-half receives from the number 8 and seeks to engage the opposing fly-half with their running line
-4. The fly-half loops behind the center, but not too deep so the scrum-half has a quality pass
+**Ejecución:**
+1. El primer centro corre carrera recta hasta la defensa
+2. A último momento busca espacio para recibir del 9
+3. El 9 recibe del 8 y busca involucrar al apertura rival con su carrera
+4. El apertura va por espalda del centro, pero no muy largo para que el 9 tenga pase de calidad
 
-**Scrum-half options:**
-1. Inside center running flat
-2. Fly-half looping behind
-3. Blindside wing behind
-4. Blindside wing on a crash line
+**Opciones del 9:**
+1. Primer centro lanzado
+2. Apertura por espalda
+3. Wing ciego por espalda
+4. Wing ciego en topo
 
-**Key:** The blindside wing can play inside of the fly-half if the opposing inside center doesn't arrive from inside.
+**Clave:** El wing ciego puede jugar de interno del apertura si el primer centro rival no llega de interno.
 
-**Fundamental principle:** The centers must find spaces, NOT aim at the defender's body. This fixes the defenders. If they don't get fixed, call for the ball directly.
+**Principio fundamental:** Los centros deben buscar espacios, NO apuntar al cuerpo del defensor. Esto fija a los defensores. Si no se fijan, pedir la pelota directamente.
 
-**If space is outside:** STRAIGHTEN and pass to the outside center.
+**Si el espacio está afuera:** ENDEREZAR y pasar al segundo centro.
 
 ---
 
 ### Lanzini
 
-**Direction:** ALWAYS from right to left to avoid marking by the opposing scrum-half.
+**Dirección:** SIEMPRE de derecha a izquierda para evitar marcación del medio scrum rival.
 
-**Condition:** If the opposing fly-half is positioned on the blindside, our wing hides behind the scrum.
+**Condición:** Si el apertura rival está parado en el ciego, nuestro wing se esconde atrás del scrum.
 
-**Execution:**
-1. The blindside wing receives directly from the scrum-half
-2. Aims for the inside shoulder of the opposing 12
-3. Objective: beat the opposing scrum-half in the race
-4. The outside center runs straight and at the last moment seeks a change of direction toward the outside shoulder of the opposing 12
-5. The fly-half drifts behind the outside center
-6. The inside center drifts outward with time to receive a possible pass from the fly-half
+**Ejecución:**
+1. El wing ciego recibe directo del 9
+2. Apunta al hombro interno del 12 rival
+3. Objetivo: ganarle la carrera al 9 rival
+4. El segundo centro hace carrera recta y a último momento busca cambio de dirección hacia el hombro externo del 12 rival
+5. El apertura desplaza por espalda del segundo centro
+6. El primer centro desplaza con tiempo hacia afuera para recibir posible pase del apertura
 
-**Options:**
-- Blindside wing can pass to the outside center
-- Blindside wing can pass to the fly-half
+**Opciones:**
+- Wing ciego puede pasar al segundo centro
+- Wing ciego puede pasar al apertura
 
-**Numerical superiority:** If the play is executed behind the outside center, it creates a favorable 4 vs 3.
+**Superioridad numérica:** Si se elige jugar por espalda del segundo centro, se genera un 4 vs 3 favorable.
 
-**Important:** The fly-half must not leave before receiving the pass. The inside center must be close for quality passing and straighten with their running line so the defense doesn't drift.
+**Importante:** El apertura no debe irse antes de recibir el pase. El primer centro debe estar cerca para pase de calidad y enderezar con su carrera para que la defensa no barra.
 
 ---
 
-## Midfield Plays
+## Jugadas de Mitad de Cancha
 
 ### Chiefs
 
-**Initial positioning:**
-Fly-half and fullback standing behind the scrum.
+**Posicionamiento inicial:**
+Apertura y fullback parados detrás del scrum.
 
-**Execution:**
-1. When the ball is coming out, both move toward the right
-2. The scrum-half attacks and passes on the run to the inside center (12)
-3. The inside center takes and drives inward with force
-4. Inside center's objective: fix the opposing outside center or failing that, the opposing fly-half
-5. This creates opportunities for the fullback and wings outside
+**Ejecución:**
+1. Cuando la pelota está saliendo, ambos van hacia la derecha
+2. El 9 ataca y pasa a la carrera al 12
+3. El 12 toma y encara hacia adentro con fuerza
+4. Objetivo del 12: fijar al segundo centro rival o en su defecto al apertura rival
+5. Esto crea oportunidades para el fullback y las alas por afuera
 
-**Timing:** The movement begins exactly when the ball is coming out of the scrum.
+**Timing:** El movimiento comienza exactamente cuando la pelota está saliendo del scrum.
 
 ---
 
 ### Waikato
 
-**Initial positioning:**
-Fly-half and fullback standing behind the scrum.
+**Posicionamiento inicial:**
+Apertura y fullback parados detrás del scrum.
 
-**Execution:**
-1. When the ball is coming out, both move toward the left
-2. A bufetero (cross) is executed between the outside center and the fullback
-3. The pass can go:
-   - To the outside center short (first option)
-   - To the fullback long looping behind (second option)
+**Ejecución:**
+1. Cuando la pelota está saliendo, ambos van hacia la izquierda
+2. Se ejecuta un bufetero entre el segundo centro y el fullback
+3. El pase puede ir:
+   - Al segundo centro corto (primera opción)
+   - Al fullback largo por la espalda (segunda opción)
 
-**Difference from Chiefs:** The direction (left vs right) and the bufetero involves the fullback instead of a direct penetrator.
-
----
-
-## General Principles
-
-### Timing and Synchronization
-- Multiple options must present themselves simultaneously
-- The ball carrier must maintain constant threat with the ball
-- Movements must be hidden until the last moment
-
-### Communication
-- Clear and early calls
-- Real-time defense reading
-- On-the-fly adjustments based on opponent response
-
-### Execution
-- Constant depth in running lines
-- Angle changes at the last moment
-- Pass quality always prioritized over speed
-
-### Decision Criteria
-- Read spaces before marking players
-- Fix defenders before releasing
-- Straighten when there's outside space
+**Diferencia con Chiefs:** La dirección (izquierda vs derecha) y el bufetero involucra al fullback en lugar de un penetrador directo.
 
 ---
 
-**Document created for San Andrés Rugby Club - 2021 Season**
+## Principios Generales
+
+### Timing y Sincronización
+- Las opciones múltiples deben presentarse simultáneamente
+- El portador debe mantener amenaza constante con la pelota
+- Los movimientos deben ser ocultos hasta último momento
+
+### Comunicación
+- Llamadas claras y tempranas
+- Lectura de la defensa en tiempo real
+- Ajustes sobre la marcha según respuesta rival
+
+### Ejecución
+- Profundidad constante en las carreras
+- Cambios de ángulo a último momento
+- Calidad de pase siempre prioritaria sobre velocidad
+
+### Criterios de Decisión
+- Leer espacios antes que marcar hombres
+- Fijar defensores antes de liberar
+- Enderezar cuando hay espacio exterior
+
+---
+
+**Documento creado para el Club San Andrés Rugby Club - Temporada 2021**
